@@ -1,0 +1,178 @@
+[
+  {
+    "feature": "Contract_Month-to-month",
+    "importance": 0.8473539585918655
+  },
+  {
+    "feature": "Internet Service_Fiber optic",
+    "importance": 0.5716206929220773
+  },
+  {
+    "feature": "monthly_charges_per_tenure",
+    "importance": 0.3379448101689361
+  },
+  {
+    "feature": "Total Charges",
+    "importance": 0.28812892834257087
+  },
+  {
+    "feature": "high_risk_contract_flag",
+    "importance": 0.257155596626962
+  },
+  {
+    "feature": "Tenure Months",
+    "importance": 0.23456701403988559
+  },
+  {
+    "feature": "avg_charge_per_service",
+    "importance": 0.2241344659088054
+  },
+  {
+    "feature": "Contract_Two year",
+    "importance": 0.22126810601707475
+  },
+  {
+    "feature": "Payment Method_Electronic check",
+    "importance": 0.17956132706329478
+  },
+  {
+    "feature": "Dependents",
+    "importance": 0.16985469081737398
+  },
+  {
+    "feature": "Payment Method_Credit card (automatic)",
+    "importance": 0.16090660131220705
+  },
+  {
+    "feature": "Internet Service_DSL",
+    "importance": 0.1527275366554658
+  },
+  {
+    "feature": "Multiple Lines",
+    "importance": 0.14482954274590534
+  },
+  {
+    "feature": "Phone Service",
+    "importance": 0.13701616050829593
+  },
+  {
+    "feature": "payment_friction_flag",
+    "importance": 0.1353146729064788
+  },
+  {
+    "feature": "Partner",
+    "importance": 0.12127822922431603
+  },
+  {
+    "feature": "Tech Support",
+    "importance": 0.1174816397849554
+  },
+  {
+    "feature": "Device Protection",
+    "importance": 0.11243561988263825
+  },
+  {
+    "feature": "Paperless Billing",
+    "importance": 0.11176715869289051
+  },
+  {
+    "feature": "Internet Service_No",
+    "importance": 0.10797434350048164
+  },
+  {
+    "feature": "Monthly Charges",
+    "importance": 0.10317537309010381
+  },
+  {
+    "feature": "Senior Citizen",
+    "importance": 0.06791038644259942
+  },
+  {
+    "feature": "Online Security",
+    "importance": 0.0631689530531597
+  },
+  {
+    "feature": "service_count",
+    "importance": 0.051310572164040016
+  },
+  {
+    "feature": "tenure_bucket",
+    "importance": 0.048329324927656424
+  },
+  {
+    "feature": "charge_trend",
+    "importance": 0.04812901107620214
+  },
+  {
+    "feature": "no_protection_flag",
+    "importance": 0.04651389834409246
+  },
+  {
+    "feature": "support_ticket_trend",
+    "importance": 0.031288139594572585
+  },
+  {
+    "feature": "overage_minutes",
+    "importance": 0.031085983351438303
+  },
+  {
+    "feature": "dropped_calls_rate",
+    "importance": 0.02683768607118696
+  },
+  {
+    "feature": "Payment Method_Bank transfer (automatic)",
+    "importance": 0.026764660057501867
+  },
+  {
+    "feature": "monthly_minutes",
+    "importance": 0.022502822339049385
+  },
+  {
+    "feature": "Contract_One year",
+    "importance": 0.021412066047343612
+  },
+  {
+    "feature": "revenue_change_pct",
+    "importance": 0.020334438789785313
+  },
+  {
+    "feature": "Gender",
+    "importance": 0.020185873783371805
+  },
+  {
+    "feature": "usage_decline_slope",
+    "importance": 0.016915516176508442
+  },
+  {
+    "feature": "support_ticket_count",
+    "importance": 0.006722383590388933
+  },
+  {
+    "feature": "Online Backup",
+    "importance": 0.003660719938933786
+  },
+  {
+    "feature": "Payment Method_Mailed check",
+    "importance": 0.003374932157957745
+  },
+  {
+    "feature": "Streaming Movies",
+    "importance": 0.002824443312455696
+  },
+  {
+    "feature": "has_streaming",
+    "importance": 0.0016049704734138156
+  },
+  {
+    "feature": "retention_call_flag",
+    "importance": 0.0015815416388826292
+  },
+  {
+    "feature": "call_minutes_decline",
+    "importance": 0.0014619681718497318
+  },
+  {
+    "feature": "Streaming TV",
+    "importance": 0.0011846389367962142
+  }
+]

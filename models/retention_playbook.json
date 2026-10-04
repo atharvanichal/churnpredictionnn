@@ -1,0 +1,106 @@
+{
+  "no_tech_support": {
+    "action": "Offer 3-month free trial of Tech Support",
+    "description": "Customer has no Tech Support subscription. A free trial reduces friction and increases service stickiness.",
+    "estimated_monthly_cost": 10,
+    "expected_success_rate": 0.35,
+    "category": "service_upgrade",
+    "urgency": "high"
+  },
+  "no_online_security": {
+    "action": "Offer 3-month free trial of Online Security",
+    "description": "Customer lacks online security. Adding this protective service increases switching cost and perceived value.",
+    "estimated_monthly_cost": 10,
+    "expected_success_rate": 0.3,
+    "category": "service_upgrade",
+    "urgency": "high"
+  },
+  "no_device_protection": {
+    "action": "Offer free Device Protection for 6 months",
+    "description": "No device protection plan. Protecting their device creates a tangible benefit that discourages switching.",
+    "estimated_monthly_cost": 8,
+    "expected_success_rate": 0.25,
+    "category": "service_upgrade",
+    "urgency": "medium"
+  },
+  "no_online_backup": {
+    "action": "Offer free Online Backup for 3 months",
+    "description": "Adding backup service creates data lock-in.",
+    "estimated_monthly_cost": 5,
+    "expected_success_rate": 0.2,
+    "category": "service_upgrade",
+    "urgency": "low"
+  },
+  "month_to_month": {
+    "action": "Offer 15% discount for annual contract upgrade",
+    "description": "Month-to-month contract is the #1 churn predictor. Incentivize commitment with a meaningful discount.",
+    "estimated_monthly_cost": 15,
+    "expected_success_rate": 0.4,
+    "category": "contract_upgrade",
+    "urgency": "high"
+  },
+  "high_risk_contract": {
+    "action": "Priority: Bundle discount (annual contract + security + support)",
+    "description": "High-risk customer: month-to-month + no security + no support. Offer a comprehensive bundle at 20% discount.",
+    "estimated_monthly_cost": 25,
+    "expected_success_rate": 0.45,
+    "category": "bundle_offer",
+    "urgency": "critical"
+  },
+  "payment_friction": {
+    "action": "Offer $5/month autopay discount + setup assistance",
+    "description": "Electronic check + paperless billing = high friction. Autopay reduces involuntary churn and improves experience.",
+    "estimated_monthly_cost": 5,
+    "expected_success_rate": 0.5,
+    "category": "billing_optimization",
+    "urgency": "medium"
+  },
+  "high_charges": {
+    "action": "Offer loyalty discount or usage-based plan migration",
+    "description": "Monthly charges are high relative to tenure/services. A 10% loyalty discount or right-sized plan reduces bill shock.",
+    "estimated_monthly_cost": 12,
+    "expected_success_rate": 0.35,
+    "category": "pricing_adjustment",
+    "urgency": "medium"
+  },
+  "usage_decline": {
+    "action": "Proactive re-engagement outreach + usage incentive",
+    "description": "Usage is declining \u2014 this often precedes churn by 2-3 months. Proactive outreach with bonus data/minutes can reverse the trend.",
+    "estimated_monthly_cost": 8,
+    "expected_success_rate": 0.25,
+    "category": "engagement",
+    "urgency": "high"
+  },
+  "high_support_calls": {
+    "action": "Assign dedicated support rep + satisfaction follow-up",
+    "description": "High support ticket volume indicates frustration. Dedicated support resolves issues faster and shows care.",
+    "estimated_monthly_cost": 15,
+    "expected_success_rate": 0.3,
+    "category": "support_escalation",
+    "urgency": "high"
+  },
+  "network_quality": {
+    "action": "Network quality investigation + service credit",
+    "description": "High dropped call rate indicates network issues in their area. Investigate and offer a service credit while resolving.",
+    "estimated_monthly_cost": 20,
+    "expected_success_rate": 0.3,
+    "category": "network_remediation",
+    "urgency": "medium"
+  },
+  "retention_call": {
+    "action": "Immediate warm transfer to retention specialist + best available offer",
+    "description": "Customer has already called the retention team \u2014 they are actively considering leaving. Escalate immediately.",
+    "estimated_monthly_cost": 30,
+    "expected_success_rate": 0.55,
+    "category": "immediate_escalation",
+    "urgency": "critical"
+  },
+  "general_churn_risk": {
+    "action": "Personalized loyalty call + thank-you credit",
+    "description": "General churn risk without a clear single driver. A personal call acknowledging their loyalty can help.",
+    "estimated_monthly_cost": 10,
+    "expected_success_rate": 0.2,
+    "category": "relationship_building",
+    "urgency": "medium"
+  }
+}

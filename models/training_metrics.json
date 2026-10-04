@@ -1,0 +1,44 @@
+{
+  "logistic_regression": {
+    "model": "Logistic Regression",
+    "accuracy": 0.7544357700496807,
+    "precision": 0.524390243902439,
+    "recall": 0.8048128342245989,
+    "f1": 0.6350210970464135,
+    "roc_auc": 0.83797566457413,
+    "avg_precision": 0.6368283885852122,
+    "true_positives": 301,
+    "false_positives": 273,
+    "true_negatives": 762,
+    "false_negatives": 73,
+    "total_cost": 638
+  },
+  "lightgbm": {
+    "model": "LightGBM (Optuna-tuned)",
+    "accuracy": 0.7835344215755855,
+    "precision": 0.5723270440251572,
+    "recall": 0.7299465240641712,
+    "f1": 0.6415981198589894,
+    "roc_auc": 0.8516959880131235,
+    "avg_precision": 0.6524424885515396,
+    "true_positives": 273,
+    "false_positives": 204,
+    "true_negatives": 831,
+    "false_negatives": 101,
+    "total_cost": 709
+  },
+  "calibrated_lightgbm": {
+    "model": "LightGBM (Calibrated)",
+    "accuracy": 0.7927608232789212,
+    "precision": 0.6062176165803109,
+    "recall": 0.6256684491978609,
+    "f1": 0.6157894736842106,
+    "roc_auc": 0.850745304709499,
+    "avg_precision": 0.6564239332068026,
+    "true_positives": 234,
+    "false_positives": 152,
+    "true_negatives": 883,
+    "false_negatives": 140,
+    "total_cost": 852
+  }
+}
